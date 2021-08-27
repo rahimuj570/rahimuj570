@@ -9,8 +9,8 @@ function wpdocs_register_my_custom_menu_page() {
         'manage_options',
         'myplugin/myplugin-admin.php',       /*-----this path is not fixed.------*/
         '',
-        plugins_url( 'myplugin/images/icon.png' ),
-        6
+        /*---------plugins_url( 'myplugin/images/icon.png' ),----------*/
+        6,
     );
 }
 add_action( 'admin_menu', 'wpdocs_register_my_custom_menu_page' );
