@@ -1,0 +1,36 @@
+/*
+At first Register a custom menu page by using that(👇) code
+ */
+  
+function wpdocs_register_my_custom_menu_page() {
+    add_menu_page(
+        __( 'Custom Menu Title', 'textdomain' ),
+        'custom menu',
+        'manage_options',
+        'myplugin/myplugin-admin.php',       /*-----this path is not fixed.------*/
+        '',
+        plugins_url( 'myplugin/images/icon.png' ),
+        6
+    );
+}
+add_action( 'admin_menu', 'wpdocs_register_my_custom_menu_page' );
+
+
+/* then create another custom post(this will be your main custom post where you will post)*/
+/* use this code(👇) */ 
+
+function coffee_pro_postType(){
+    register_post_type( 'team_member',[
+        'public'=>true,
+        "labels"=>[
+            'add_new'=>'Add Member',
+            'all_items'=>'All Members',
+            'name'=>'Members',
+            'description'=>'In this section you can add, delete, edite the members.',
+        ],
+        'menu_icon'=>'dashicons-buddicons-buddypress-logo',
+        'menu_position'=>5,
+        'show_in_menu'       => 'hhh.php', /*-------NOTE: THIS PATH WILL BE SAME AS PREVIOUS CUSTOM POST'S PATH-------*/
+    ]);
+}
+add_action('init','coffee_pro_postType' );
