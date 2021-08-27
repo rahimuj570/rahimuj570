@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahimuj570
+- 👋 Hi, I’m <strong>Md. Rahimujjaman Rahim</strong>
 - 👀 I’m interested in Web Design and Development
 - 🌱 I’m currently learning Wordpress
 - 💞️ I'm looking for an internship.
