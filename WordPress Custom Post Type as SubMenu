@@ -23,10 +23,12 @@ function coffee_pro_postType(){
     register_post_type( 'team_member',[
         'public'=>true,
         "labels"=>[
-            'add_new'=>'Add Member',
-            'all_items'=>'All Members',
+        
+            'add_new'=>'Add Member',    /*---------TRY TO AVOID IT---------*/
+            'all_items'=>'All Members',  /*---------TRY TO AVOID IT---------*/
+            
             'name'=>'Members',
-            'description'=>'In this section you can add, delete, edite the members.',
+          'description'=>'In this section you can add, delete, edite the members.',
         ],
         'menu_icon'=>'dashicons-buddicons-buddypress-logo',
         'menu_position'=>5,
