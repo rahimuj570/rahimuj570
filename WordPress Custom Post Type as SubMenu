@@ -31,7 +31,7 @@ function coffee_pro_postType(){
           'description'=>'In this section you can add, delete, edite the members.',
         ],
         'menu_icon'=>'dashicons-buddicons-buddypress-logo',
-        'menu_position'=>5,
+        'menu_position'=>5,         /*---------TRY TO AVOID IT---------*/
         'show_in_menu'       => 'hhh.php', /*-------NOTE: THIS PATH WILL BE SAME AS PREVIOUS CUSTOM POST'S PATH-------*/
     ]);
 }
