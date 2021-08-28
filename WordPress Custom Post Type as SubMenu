@@ -5,11 +5,11 @@ At first Register a custom menu page by using that(👇) code
 function wpdocs_register_my_custom_menu_page() {
     add_menu_page(
         __( 'Custom Menu Title', 'textdomain' ),
-        'custom menu',
+        'Customize Site Features',    /*-----this path is not fixed.------*/
         'manage_options',
-        'myplugin/myplugin-admin.php',       /*-----this path is not fixed.------*/
+        'hhh.php',       
         '',
-        /*---------plugins_url( 'myplugin/images/icon.png' ),----------*/
+        'dashicons-admin-generic',
         6,
     );
 }
