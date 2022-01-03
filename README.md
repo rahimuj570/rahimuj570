@@ -1,7 +1,7 @@
 - 👋 Hi, I’m <strong>Md. Rahimujjaman Rahim</strong>
 - 👀 I’m interested in Web Design and Development
-- 🌱 I’m currently learning Wordpress
-- 💞️ I'm looking for an internship.
+- 🌱 I’m currently learning MERN
+- 💞️ I'm looking for some interesting JavaScript's topics.
 - 📫 How to reach me 'rahimuj570@gmail.com'
 
 <!---
