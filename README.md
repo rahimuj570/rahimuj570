@@ -10,14 +10,13 @@
 
 <div align="center">
 
-🇧🇩 Passionate Developer from Bangladesh</br>
-👋 Hi, I’m Md. Rahimujjaman Rahim — a curious coder and lifelong learner</br>
-🎓 B.Sc. in Computer Science & Engineering (ongoing)</br>
-🔧 Building practical tools and solving real-world problems through university and personal projects</br>
-🌱 Exploring programming languages deeply — I value good syntax, fundamentals, and clarity over hype</br>
-💬 Ask me about Flutter, SQL, Advanced Java, or core software engineering concepts</br>
-📚 I believe in clean, maintainable code and making technology accessible through clear documentation</br>
-⚡ Fun fact: I’d rather master a new language than chase the latest framework trend 😄
+🇧🇩 Developer from Bangladesh<br>
+👋 Hi, I’m Md. Rahimujjaman Rahim, a CSE undergraduate and curious problem solver<br>
+🎓 B.Sc. in Computer Science & Engineering<br>
+🔧 Working with Flutter, SQL, and Advanced Java<br>
+🌱 Focused on strong fundamentals, clean code, and maintainable systems<br>
+📚 I value clarity in code and documentation<br>
+⚡ Fun fact: I prefer mastering languages over chasing framework hype 😄
  </div>
  
 <div align="center"> 
@@ -58,12 +57,19 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<div align='center'>
+    
 ![](https://github-readme-stats.vercel.app/api?username=rahimuj570&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rahimuj570&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahimuj570&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+</div>
 <hr/>
 <br/><br/>
+
+
+
+
+
 
 <br/>
 
@@ -72,12 +78,5 @@
 </div> -->
 
 <!-- <br/> -->
-
-<div align=center>
-<h2>✍️ Random Dev Quote</h2>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
