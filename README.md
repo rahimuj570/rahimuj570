@@ -10,9 +10,14 @@
 
 <div align="center">
 
-👋 Hi, I’m Md. Rahimujjaman **Rahim**<br>👀 At present, I am studying for a B.Sc. in CSE<br>🔭 I’m currently working on my varsity's projects.<br>🌱 I’m currently learning <br/>
-💬 Ask me about **React, SQL, Advance Java... or anything [here](https://github.com/rahimuj570/rahimuj570/issues)** <br/>⚡ Actually, I love to learn new programming language rather than new technologies😂.
-
+🇧🇩 Passionate Developer from Bangladesh</br>
+👋 Hi, I’m Md. Rahimujjaman Rahim — a curious coder and lifelong learner</br>
+🎓 B.Sc. in Computer Science & Engineering (ongoing)</br>
+🔧 Building practical tools and solving real-world problems through university and personal projects</br>
+🌱 Exploring programming languages deeply — I value good syntax, fundamentals, and clarity over hype</br>
+💬 Ask me about Flutter, SQL, Advanced Java, or core software engineering concepts</br>
+📚 I believe in clean, maintainable code and making technology accessible through clear documentation</br>
+⚡ Fun fact: I’d rather master a new language than chase the latest framework trend 😄
  </div>
  
 <div align="center"> 
@@ -22,7 +27,7 @@
   <a href="https://linkedin.com/in/rahimuj570" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://rahimuj570.blogspot.com" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   <a href="https://facebook.com/rahimuj570" target="_blank">
@@ -55,7 +60,6 @@
 <br>
 <div align=center>
 
-![](https://github-readme-stats.vercel.app/api?username=rahimuj570&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahimuj570&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahimuj570&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
