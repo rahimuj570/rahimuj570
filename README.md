@@ -65,16 +65,6 @@ Currently improving my Flutter skills and backend fundamentals.
   <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"/>
 </p>
 
----
-
-## 📊 Github Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahimuj570&show_icons=true&count_private=true&hide_border=true" width="400px"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimuj570&hide_border=true&layout=compact" width="400px%"/>
-</p>  
-
 
 
 ---
